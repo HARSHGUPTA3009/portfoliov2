@@ -5,7 +5,7 @@ import { personalInfo } from "@/data/portfolio-data";
 export const metadata: Metadata = {
   title: `${personalInfo.name} — Software Engineer`,
   icons: {
-    icon: "https://www.clipartmax.com/png/middle/421-4211389_check-official-docker-logo.png",
+    icon: "logo.png",
   },
   description: personalInfo.tagline,
   keywords: [
